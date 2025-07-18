@@ -1,0 +1,60 @@
+# 🪨 Stone Paper Scissors Game
+
+🎮 A fun and interactive game built using **HTML**, **CSS**, and **JavaScript**.  
+This is my **first JavaScript project**, created to practice DOM manipulation, event handling, and basic game logic.
+
+---
+
+## 🔗 Live Demo
+
+👉 [Play Now](https://yourusername.github.io/stone-paper-scissors-game)  
+*(Replace this link with your GitHub Pages link once deployed)*
+
+---
+
+## 📌 Features
+
+- ✅ User vs Computer gameplay
+- ✅ Random computer choices (rock, paper, scissors)
+- ✅ Win/Lose/Draw logic
+- ✅ Score tracking
+- ✅ Simple and responsive UI
+- ✅ Hover and click effects
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+---
+
+## 🖼️ Screenshot
+
+![Game Screenshot](images/screenshot.png)  
+*(Make sure to add your screenshot in the `images/` folder)*
+
+---
+
+## 📁 Project Structure
+
+stone-paper-scissors-game/
+│
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│ ├── rock.png
+│ ├── paper.png
+│ └── scissors.png
+└── README.md
+
+## 💡 Future Improvements
+
+- Add sound effects
+- Show final result after 5 rounds
+- Improve mobile responsiveness
+
+---
