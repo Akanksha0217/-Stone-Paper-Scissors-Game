@@ -2,6 +2,8 @@
 
 🎮 A fun and interactive game built using **HTML**, **CSS**, and **JavaScript**.  
 This is my **first JavaScript project**, created to practice DOM manipulation, event handling, and basic game logic.
+✨ I also learned how to **deploy a project using Vercel**!
+
 
 ---
 
@@ -28,14 +30,7 @@ This is my **first JavaScript project**, created to practice DOM manipulation, e
 - HTML5
 - CSS3
 - JavaScript (ES6)
-
----
-
-## 🖼️ Screenshot
-
-![Game Screenshot](images/screenshot.png)  
-*(Make sure to add your screenshot in the `images/` folder)*
-
+- Vercel (for deployment)
 ---
 
 ## 📁 Project Structure
