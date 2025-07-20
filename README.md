@@ -7,8 +7,8 @@ This is my **first JavaScript project**, created to practice DOM manipulation, e
 
 ## 🔗 Live Demo
 
-👉 [Play Now](https://yourusername.github.io/stone-paper-scissors-game)  
-*(Replace this link with your GitHub Pages link once deployed)*
+👉 [Play Now](https://stonepaperscissorjs.vercel.app/) 
+
 
 ---
 
